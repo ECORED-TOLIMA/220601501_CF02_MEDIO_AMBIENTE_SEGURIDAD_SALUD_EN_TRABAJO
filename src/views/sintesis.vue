@@ -2,13 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. 
+    p Este componente formativo aborda los fundamentos normativos y técnicos de la gestión ambiental y de la seguridad y salud en el trabajo, explorando las principales leyes que regulan estos ámbitos y el funcionamiento de los Sistemas de Gestión Ambiental (SGA) y de Seguridad y Salud en el Trabajo (SG-SST). A través del análisis del contexto organizacional, la planificación, el control operacional, la evaluación del desempeño y la mejora continua, se busca fortalecer la responsabilidad ambiental y la protección de los trabajadores. Además, se reconocen los derechos y deberes laborales como parte esencial de una cultura preventiva y sostenible .
     
-
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="En la síntesis se presenta la relación entre la legislación ambiental y en seguridad y salud en el trabajo, y la estructura de los sistemas de gestión (SGA y SG-SST), destacando sus componentes clave como la planificación, el control operacional, la evaluación del desempeño y la mejora continua, junto con los derechos y deberes de los trabajadores.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
