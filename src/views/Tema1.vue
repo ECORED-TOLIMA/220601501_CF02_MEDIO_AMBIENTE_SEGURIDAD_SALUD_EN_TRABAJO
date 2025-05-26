@@ -26,9 +26,9 @@
           h5 Figura 1.
           i Jerarquía de la normatividad en Colombia 
         figure.d-lg-flex.d-none(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img03.png' alt="En la figura 1 se representa la jerarquía normativa en Colombia, comenzando con la Constitución Política como norma suprema, seguida por leyes estatutarias y ordinarias, decretos con fuerza de ley, decretos reglamentarios, resoluciones, circulares y otros documentos técnicos o guías orientadoras que complementan el marco legal.")
+          img(src='@/assets/curso/tema1/img03.svg' alt="En la figura 1 se representa la jerarquía normativa en Colombia, comenzando con la Constitución Política como norma suprema, seguida por leyes estatutarias y ordinarias, decretos con fuerza de ley, decretos reglamentarios, resoluciones, circulares y otros documentos técnicos o guías orientadoras que complementan el marco legal.")
         figure.d-lg-none.d-flex(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img03a.png' alt="En la figura 1 se representa la jerarquía normativa en Colombia, comenzando con la Constitución Política como norma suprema, seguida por leyes estatutarias y ordinarias, decretos con fuerza de ley, decretos reglamentarios, resoluciones, circulares y otros documentos técnicos o guías orientadoras que complementan el marco legal.")
+          img(src='@/assets/curso/tema1/img03a.svg' alt="En la figura 1 se representa la jerarquía normativa en Colombia, comenzando con la Constitución Política como norma suprema, seguida por leyes estatutarias y ordinarias, decretos con fuerza de ley, decretos reglamentarios, resoluciones, circulares y otros documentos técnicos o guías orientadoras que complementan el marco legal.")
 
     .row.justify-content-center.mb-4
       .col-lg-10

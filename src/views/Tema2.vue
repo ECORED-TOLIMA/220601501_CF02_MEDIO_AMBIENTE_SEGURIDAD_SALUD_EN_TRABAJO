@@ -22,9 +22,9 @@
           h5 Figura 2.
           i Ciclo PHVA (Planear, Hacer, Verificar y Actuar)
         figure.d-lg-flex.d-none(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img02.png' alt="La figura 2 se presenta el ciclo PHVA, una metodología de mejora continua que incluye cuatro fases: planear, donde se establecen objetivos y procesos; hacer, que implica la implementación de lo planeado; verificar, para evaluar los resultados frente a los objetivos; y actuar, donde se toman acciones para corregir y mejorar continuamente.")
+          img(src='@/assets/curso/tema2/img02.svg' alt="La figura 2 se presenta el ciclo PHVA, una metodología de mejora continua que incluye cuatro fases: planear, donde se establecen objetivos y procesos; hacer, que implica la implementación de lo planeado; verificar, para evaluar los resultados frente a los objetivos; y actuar, donde se toman acciones para corregir y mejorar continuamente.")
         figure.d-lg-none.d-flex(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img02a.png' alt="La figura 2 se presenta el ciclo PHVA, una metodología de mejora continua que incluye cuatro fases: planear, donde se establecen objetivos y procesos; hacer, que implica la implementación de lo planeado; verificar, para evaluar los resultados frente a los objetivos; y actuar, donde se toman acciones para corregir y mejorar continuamente.")
+          img(src='@/assets/curso/tema2/img02a.svg' alt="La figura 2 se presenta el ciclo PHVA, una metodología de mejora continua que incluye cuatro fases: planear, donde se establecen objetivos y procesos; hacer, que implica la implementación de lo planeado; verificar, para evaluar los resultados frente a los objetivos; y actuar, donde se toman acciones para corregir y mejorar continuamente.")
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9(data-aos="fade-right")
