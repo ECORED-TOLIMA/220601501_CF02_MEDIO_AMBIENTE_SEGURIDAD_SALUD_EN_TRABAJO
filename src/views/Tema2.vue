@@ -305,9 +305,9 @@
           h5 Figura 3.
           i Niveles de documentación en un SGA 
         figure.d-lg-flex.d-none(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img28.png' alt="En la figura 3, se representan los niveles jerárquicos de documentación dentro de un Sistema de Gestión Ambiental (SGA), organizados desde los manuales generales hasta los registros y documentos externos. Se incluyen manuales, procedimientos, instructivos, y registros tanto internos como externos, junto con especificaciones y catálogos, los cuales garantizan la trazabilidad, control y coherencia del sistema.")
+          img(src='@/assets/curso/tema2/img28.svg' alt="En la figura 3, se representan los niveles jerárquicos de documentación dentro de un Sistema de Gestión Ambiental (SGA), organizados desde los manuales generales hasta los registros y documentos externos. Se incluyen manuales, procedimientos, instructivos, y registros tanto internos como externos, junto con especificaciones y catálogos, los cuales garantizan la trazabilidad, control y coherencia del sistema.")
         figure.d-lg-none.d-flex(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img28a.png' alt="En la figura 3, se representan los niveles jerárquicos de documentación dentro de un Sistema de Gestión Ambiental (SGA), organizados desde los manuales generales hasta los registros y documentos externos. Se incluyen manuales, procedimientos, instructivos, y registros tanto internos como externos, junto con especificaciones y catálogos, los cuales garantizan la trazabilidad, control y coherencia del sistema.")
+          img(src='@/assets/curso/tema2/img28a.svg' alt="En la figura 3, se representan los niveles jerárquicos de documentación dentro de un Sistema de Gestión Ambiental (SGA), organizados desde los manuales generales hasta los registros y documentos externos. Se incluyen manuales, procedimientos, instructivos, y registros tanto internos como externos, junto con especificaciones y catálogos, los cuales garantizan la trazabilidad, control y coherencia del sistema.")
 
     p En conjunto, estos elementos de apoyo permiten garantizar la solidez y sostenibilidad del Sistema de Gestión Ambiental (SGA) dentro de cualquier organización.
 
