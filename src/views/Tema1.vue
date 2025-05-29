@@ -50,7 +50,7 @@
             .col-lg-10
               p.mb-0 La legislación ambiental en Colombia constituye un conjunto normativo sólido que regula la protección del ambiente, el uso racional de los recursos naturales, el manejo del riesgo y la educación para la sostenibilidad. Esta normativa se apoya en principios constitucionales, leyes nacionales, decretos reglamentarios, resoluciones técnicas y acuerdos internacionales.
 
-    p #[mark.BG10.px-1 Constitución Política de Colombia de 1991:] es reconocida como una “Constitución verde” debido a la inclusión de diversos artículos que establecen el deber del Estado y de los ciudadanos de proteger el ambiente. Entre los artículos más representativos se encuentran:
+    p #[b Constitución Política de Colombia de 1991:] es reconocida como una “Constitución verde” debido a la inclusión de diversos artículos que establecen el deber del Estado y de los ciudadanos de proteger el ambiente. Entre los artículos más representativos se encuentran:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")

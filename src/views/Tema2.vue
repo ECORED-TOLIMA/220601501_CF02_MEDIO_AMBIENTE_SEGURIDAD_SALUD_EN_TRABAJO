@@ -27,12 +27,8 @@
           img(src='@/assets/curso/tema2/img02a.svg' alt="La figura 2 se presenta el ciclo PHVA, una metodología de mejora continua que incluye cuatro fases: planear, donde se establecen objetivos y procesos; hacer, que implica la implementación de lo planeado; verificar, para evaluar los resultados frente a los objetivos; y actuar, donde se toman acciones para corregir y mejorar continuamente.")
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-9(data-aos="fade-right")
-        .row.justify-content-center.align-items-center.mb-4
-          .col-lg-1.col-4.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img03.svg' alt="Imagen decorativa")
-          .col-lg-11
-            p.mb-0 Un SGA eficiente proporciona herramientas para alcanzar la certificación ambiental, como la ISO 14001, lo que aumenta la credibilidad de la organización y mejora su reputación frente a clientes, inversores, autoridades y otras partes interesadas. Además, promueve la sostenibilidad corporativa, garantizando que las operaciones de la empresa no solo sean rentables, sino también respetuosas con el medio ambiente y responsables socialmente.
+      .col-lg-8(data-aos="fade-right")
+        p Un SGA eficiente proporciona herramientas para alcanzar la certificación ambiental, como la ISO 14001, lo que aumenta la credibilidad de la organización y mejora su reputación frente a clientes, inversores, autoridades y otras partes interesadas. Además, promueve la sostenibilidad corporativa, garantizando que las operaciones de la empresa no solo sean rentables, sino también respetuosas con el medio ambiente y responsables socialmente.
         p Beneficios clave del SGA:
         .row
           .col-lg-4.col-6.mb-4
@@ -55,7 +51,7 @@
             .BGB04.h-100.p-4
               .h4 Acceso a mercados sostenibles
               p.mb-0 Facilita la participación en mercados que priorizan la sostenibilidad y la responsabilidad social empresarial.
-      .col-lg-3.d-lg-flex.d-none(data-aos="fade-left")
+      .col-lg-4.d-lg-flex.d-none(data-aos="fade-left")
         img(src='@/assets/curso/tema2/img04.png' alt="Imagen decorativa")
 
     .row.justify-content-center.align-items-center.mb-4
@@ -232,12 +228,12 @@
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.4 Objetivos ambientales y planificación para lograrlos
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema2/img24.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Los objetivos ambientales son metas específicas que la organización establece para mejorar su desempeño ambiental, alineados con su política ambiental, el contexto organizacional y los requisitos legales aplicables. Estos objetivos deben ser medibles, alcanzables y coherentes con los compromisos adquiridos, como la prevención de la contaminación, la eficiencia en el uso de recursos y la mejora continua.
-        .tarjeta.BG01.p-4.mb-4
+        .tarjeta.BG01.p-4
           .row.justify-content-center.align-items-center
             .col-lg-2.col-3.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img25.svg' alt="Imagen decorativa")

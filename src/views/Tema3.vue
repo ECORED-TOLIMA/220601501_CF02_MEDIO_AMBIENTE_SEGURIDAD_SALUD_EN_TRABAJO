@@ -609,25 +609,25 @@
       .col-lg-3.col-sm-6.col-10.mb-4(data-aos="fade-right")
         .tarjeta.BGIMG01.h-100.p-4
           .row.mb-4
-            .col-lg-3.col--4
+            .col-lg-3.col-4
               img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
           p.mb-0 Revisión del desempeño: se analizan indicadores de SST, resultados de auditorías, reportes de incidentes, y cumplimiento de planes de trabajo.
       .col-lg-3.col-sm-6.col-10.mb-4(data-aos="flip-right")
         .tarjeta.BGIMG01.h-100.p-4
           .row.mb-4
-            .col-lg-3.col--4
+            .col-lg-3.col-4
               img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
           p.mb-0 Revisión por la alta dirección: se evalúa la eficacia del sistema y se toman decisiones estratégicas sobre recursos, ajustes al plan y definición de nuevos objetivos.
       .col-lg-3.col-sm-6.col-10.mb-4(data-aos="flip-left")
         .tarjeta.BGIMG01.h-100.p-4
           .row.mb-4
-            .col-lg-3.col--4
+            .col-lg-3.col-4
               img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
           p.mb-0 Gestión de no conformidades: se documentan hallazgos, se analiza la causa raíz y se definen acciones correctivas para evitar la recurrencia.
       .col-lg-3.col-sm-6.col-10.mb-4(data-aos="fade-left")
         .tarjeta.BGIMG01.h-100.p-4
           .row.mb-4
-            .col-lg-3.col--4
+            .col-lg-3.col-4
               img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
           p.mb-0 Acciones preventivas y de mejora: se anticipan riesgos y se proponen iniciativas para elevar el nivel de control y eficiencia del sistema, más allá del cumplimiento mínimo.
 
