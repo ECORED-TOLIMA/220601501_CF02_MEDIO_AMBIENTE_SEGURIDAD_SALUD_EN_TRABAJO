@@ -156,7 +156,7 @@
               p.mb-0 Para revisar este y otros conceptos acerca del Sistema Único de Información Normativa del Estado colombiano, consulte la página de SUIN-Juriscol.
             .col-sm-auto
               a.boton.color-acento-botones(href="http://www.suin-juriscol.gov.co/legislacion/normatividad.html" target="_blank")
-                span Descargar
+                span Abrir enlace
                 i.fas.fa-file-download
     
     .row.justify-content-center.align-items-center.mb-5
@@ -216,7 +216,7 @@
               p.mb-0 Para conocer los eventos ambientales a nivel mundial, se recomienda visitar la página del Programa de las Naciones Unidas para el Medio Ambiente:
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.unep.org/es" target="_blank")
-                span Descargar
+                span Abrir enlace
                 i.fas.fa-file-download
 
     .row.justify-content-center.align-items-center.mb-5
@@ -365,7 +365,7 @@
               p.mb-0 Para consultar el marco legal vigente en Colombia sobre riesgos laborales, se recomienda visitar la página oficial del Ministerio del Trabajo:
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.mintrabajo.gov.co/marco-legal" target="_blank")
-                span Descargar
+                span Abrir enlace
                 i.fas.fa-file-download
 
 </template>

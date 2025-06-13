@@ -221,7 +221,7 @@
               p.mb-0 Para ampliar la información sobre los impactos ambientales específicos según el tipo de actividad o sector, se recomienda consultar el documento oficial publicado por el Ministerio de Ambiente y Desarrollo Sostenible de Colombia: 
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.minambiente.gov.co/wp-content/uploads/2022/04/Listado-de-Impactos-Ambientales-Especificos-2021-V.4.pdf" target="_blank")
-                span Descargar
+                span Abrir enlace
                 i.fas.fa-file-download
 
     separador
@@ -293,7 +293,7 @@
       .col-lg-1.col-2.px-0.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/img03.svg' alt="Imagen decorativa")
       .col-lg-11(data-aos="fade-left")
-        p.mb-0 Para complementar la estructura documental del SGA, es útil representar jerárquicamente los distintos niveles de documentación que lo componen. Esta jerarquía permite mantener la coherencia del sistema, asegurar la trazabilidad de la información y facilitar el cumplimiento de los requisitos normativos. A continuación, se presenta un esquema visual que ilustra la relación entre manuales, procedimientos, instructivos y registros:
+        p.mb-0 Para complementar la estructura documental del SGA, es útil representar jerárquicamente los distintos niveles de documentación que lo componen. Esta jerarquía permite mantener la coherencia del sistema, asegurar la trazabilidad de la información y facilitar el cumplimiento de los requisitos normativos. A continuación, se presenta la relación entre manuales, procedimientos, instructivos y registros:
 
     .row.justify-content-center.mb-4
       .col-lg-10
